@@ -1,0 +1,135 @@
+/* Inicio de estilos generales */
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+	padding: 0;
+	border: 0;
+    font-family: "Jost", serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+/* Fin de estilos generales */
+
+/* Inicio de estilos de barra de navegacion */
+
+
+header nav ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+header{
+    background-color: blue;
+    text-align: center;
+}
+
+header img{
+    width: 60px;
+}
+
+header img span {
+    color: rgb(0, 0, 0);
+}
+/* Fin de estilos de la barra de navegacion */
+
+/* Inician estilos de la pagina de inicio */
+.seccion1Inicio img{
+    width: 50%;
+}
+/* Terminan estilos de la pagina de inicio */
+
+
+/* Inician estilos del footer */
+footer{
+    background-color: blue;
+    text-align: center;
+}
+
+footer ul li a img{
+    width: 40px;
+}
+
+/* Terminan estilos del footer */
+
+/* Inician estilos de la pagina de galeria */
+.seccion1Galeria{
+    background-color: #0B1533;
+    text-align: center;
+}
+
+.seccion1Galeria h1{
+    color:  white;
+}
+
+.seccion1Galeria img{
+    width: 50%;
+    margin: 10px;
+}
+/* Terminan estilos de la pagina de galeria */
+/* Empiezan estilos de la pagina experiencias */
+.seccion1Experiencias, .seccion2Experiencias{
+    background-color: #0B1533;
+    color: #ffffff;
+    text-align: center;
+    margin: 10px;
+}
+.seccion1Experiencias{
+    margin: 10px;
+}
+
+.seccion1Experiencias div div ul li a img,.seccion2Experiencias div div ul li a img {
+    width: 40px;
+    background-color: green;
+}
+
+.seccion1Experiencias div div ,.seccion2Experiencias div div  {
+    background-color: gray;
+}
+
+.seccion2Experiencias{
+    margin: 10px;
+}
+
+
+/* Terminan estilos de la pagina experiencias */
+
+/* Inician estilos de la pagina Blog */
+.seccion1Blog{
+    text-align: center;
+}
+
+.seccion1Blog img{
+    width: 200px;
+}
+
+.seccion1Blog div{
+    background-color: #0B1533;
+    margin: 10px;
+    color: white;
+}
+
+
+/* Terminan estilos de la pagina Blog */
+
+/* inician estilos de la pagina contacto */
+.seccion1Contacto{
+    background-color: #0B1533;
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+/* terminan estilos de la pagina contacto */
+
+
+
+
+
+

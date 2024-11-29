@@ -1,0 +1,31 @@
+body{
+    background-color: #B7151E;
+}
+
+/* Estilos de header */
+
+header{
+    text-align: center;
+}
+
+header nav ul{
+    list-style: none;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    /* background-color: black; */
+}
+
+/* Mstilos de main */
+
+main{
+    text-align: center;
+    color: white;
+}
+
+/* Estilos de footer */
+footer{
+    text-align: center;
+}

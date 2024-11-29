@@ -1,0 +1,19 @@
+/* Reset de css */
+*{
+    margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+/* Inicial estilos de index */
+h2{
+    color: green;
+}
+.fondo{
+    color: rgb(174, 226, 43);
+    background-color: crimson;
+}
+#tomato{
+    color: rgb(255, 85, 0) !important;
+}
+/* Terminan estilos de css */
